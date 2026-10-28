@@ -1,4 +1,7 @@
 allowBuilds:
-  better-sqlite3: false
+  better-sqlite3: true
   msw: false
   sharp: true
+permissions:
+  dotenv:
+    skills: false
